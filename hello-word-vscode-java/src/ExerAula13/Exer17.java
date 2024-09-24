@@ -30,7 +30,7 @@ public class Exer17 {
         // 3. Situação: Misturar latas e galões para minimizar o custo
         // Calcula quantas latas de 18L são necessárias
         int latasNecessarias = (int) (quantTinta / baldeTinta);
-        double restoTinta = quantTinta % baldeTinta; // Quanto de tinta ainda falta
+        double restoTinta = quantTinta % baldeTinta;
 
         // Calcula quantos galões serão necessários para o resto
         double galaoParaRestante = Math.ceil(restoTinta / galaoTinta);
