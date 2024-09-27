@@ -9,8 +9,8 @@ public class Exer05 {
         System.out.println("Entre com um valor em metros:");
         double metros = scan.nextDouble();
 
-        double centimetros =  metro * 100;
-        System.out.println("O valor corresponde a " + centimetro + " centimentros.");
+        double centimetros =  metros * 100;
+        System.out.println("O valor corresponde a " + centimetros + " centimentros.");
 
     }
 

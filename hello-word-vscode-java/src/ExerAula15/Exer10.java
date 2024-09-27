@@ -23,7 +23,6 @@ public class Exer10 {
             case "N":
                 System.out.println("Boa Nopit!");
                 break;
-
             default:
                 System.out.println("Valor inválido");
                 break;

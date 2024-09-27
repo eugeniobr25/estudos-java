@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExerAula15/Exer10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExerAula15/Exer10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ExerAula15/Exer11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ExerAula15/Exer11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula13/Exer05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula13/Exer05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +57,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exer11.executor": "Run",
+    "Application.Exer12.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,10 +72,44 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Exer12">
+    <configuration name="Exer11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer11" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer12" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exer12" />
+        <item itemvalue="Application.Exer11" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727148582152</updated>
-      <workItem from="1727395618201" duration="573000" />
+      <workItem from="1727395618201" duration="4905000" />
     </task>
     <servers />
   </component>
