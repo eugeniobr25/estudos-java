@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula15/Exer28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula15/Exer23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula15/Exer22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula15/Exer22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +73,9 @@
     "Application.Exer18.executor": "Run",
     "Application.Exer19.executor": "Run",
     "Application.Exer20.executor": "Run",
+    "Application.Exer21.executor": "Run",
+    "Application.Exer22.executor": "Run",
+    "Application.Exer23.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -83,9 +93,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exer20">
-    <configuration name="Exer16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer16" />
+  <component name="RunManager" selected="Application.Exer28">
+    <configuration name="Exer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer24" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer17" />
+    <configuration name="Exer25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer25" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer18" />
+    <configuration name="Exer26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer26" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer19" />
+    <configuration name="Exer27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer27" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer20" />
+    <configuration name="Exer28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula15.Exer28" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer20" />
-        <item itemvalue="Application.Exer19" />
-        <item itemvalue="Application.Exer18" />
-        <item itemvalue="Application.Exer17" />
-        <item itemvalue="Application.Exer16" />
+        <item itemvalue="Application.Exer28" />
+        <item itemvalue="Application.Exer27" />
+        <item itemvalue="Application.Exer26" />
+        <item itemvalue="Application.Exer25" />
+        <item itemvalue="Application.Exer24" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +193,7 @@
       <workItem from="1727417562888" duration="279000" />
       <workItem from="1727417861145" duration="2537000" />
       <workItem from="1727478667437" duration="3952000" />
-      <workItem from="1727739205059" duration="3213000" />
+      <workItem from="1727739205059" duration="8096000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />

@@ -21,7 +21,7 @@ public class Exer10 {
                 break;
             case "n":
             case "N":
-                System.out.println("Boa Nopit!");
+                System.out.println("Boa Noite!");
                 break;
             default:
                 System.out.println("Valor inválido");
