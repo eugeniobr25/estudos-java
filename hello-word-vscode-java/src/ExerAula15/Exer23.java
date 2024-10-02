@@ -16,7 +16,5 @@ public class Exer23 {
         } else {
             System.out.println("O número é decimal.");
         }
-
-        scan.close();
     }
 }
