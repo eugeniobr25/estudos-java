@@ -19,7 +19,5 @@ public class Exer01 {
                 System.out.println("Nota invalida, digite novamente");
             }
         } while (!notaValida);
-
-
     }
 }
