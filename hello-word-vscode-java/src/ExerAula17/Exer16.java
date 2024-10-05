@@ -2,22 +2,16 @@ package ExerAula17;
 
 import java.util.Scanner;
 
-public class Exer15 {
+public class Exer16 {
     public static void main(String[] args) {
-
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Entre com o n-ésimo termo da serie fibonacci: ");
-        int n = scan.nextInt();
-
         int primeiro = 1;
         int segundo = 1;
-        int proximo;
+        int proximo = 0;
 
         System.out.println(primeiro);
         System.out.println(segundo);
 
-        for (int i = 3; i <= n; i++) {
-
+        while (proximo <= 500) {
             proximo = primeiro + segundo;
             primeiro = segundo;
             segundo = proximo;
@@ -26,3 +20,4 @@ public class Exer15 {
         }
     }
 }
+
