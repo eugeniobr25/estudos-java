@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer02.class" afterDir="false" />
-    </list>
+    <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
