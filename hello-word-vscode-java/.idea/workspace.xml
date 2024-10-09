@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerAula17/Exer18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula17/Exer18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula17/Exer44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula17/Exer0001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +87,7 @@
     "Application.Exer39.executor": "Run",
     "Application.Exer40.executor": "Run",
     "Application.Exer41.executor": "Run",
+    "Application.Exer42.executor": "Run",
     "Application.Exer43.executor": "Run",
     "Application.Exer44.executor": "Run",
     "Application.Exer45.executor": "Run",
@@ -239,7 +228,7 @@
       <workItem from="1728086560846" duration="5768000" />
       <workItem from="1728102629735" duration="1878000" />
       <workItem from="1728362653013" duration="3081000" />
-      <workItem from="1728429031562" duration="11993000" />
+      <workItem from="1728429031562" duration="13131000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />
@@ -361,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728444756418</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1728449072224</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728449072224</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
