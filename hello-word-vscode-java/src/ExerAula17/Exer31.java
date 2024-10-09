@@ -43,7 +43,6 @@ public class Exer31 {
             } else {
                 sair = true;
             }
-
         } while (!sair);
     }
 }
