@@ -2,7 +2,7 @@ package ExerAula17;
 
 import java.util.Scanner;
 
-public class Exer45 {
+public class Exer0002 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o valor de n: ");

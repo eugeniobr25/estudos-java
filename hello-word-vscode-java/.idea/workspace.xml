@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerAula17/Exer44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula17/Exer0001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerAula17/Exer45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula17/Exer0002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,20 +112,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exer42">
-    <configuration name="Exer37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer37" />
-      <module name="hello-word-vscode-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exer44">
     <configuration name="Exer39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer39" />
       <module name="hello-word-vscode-java" />
@@ -176,13 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exer44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer44" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer44" />
         <item itemvalue="Application.Exer42" />
         <item itemvalue="Application.Exer41" />
         <item itemvalue="Application.Exer40" />
         <item itemvalue="Application.Exer39" />
-        <item itemvalue="Application.Exer37" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +230,7 @@
       <workItem from="1728086560846" duration="5768000" />
       <workItem from="1728102629735" duration="1878000" />
       <workItem from="1728362653013" duration="3081000" />
-      <workItem from="1728429031562" duration="13131000" />
+      <workItem from="1728429031562" duration="15583000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />
@@ -358,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728449072224</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1728450096971</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728450096971</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
