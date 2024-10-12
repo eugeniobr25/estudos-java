@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer45Incrementado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer44.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerAula17/Exer45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerAula17/Exer0002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer45.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +96,10 @@
     "Application.Exer43.executor": "Run",
     "Application.Exer44.executor": "Run",
     "Application.Exer45.executor": "Run",
+    "Application.Exer45Incrementado.executor": "Run",
+    "Application.Exer46.executor": "Run",
+    "Application.Exer47.executor": "Run",
+    "Application.Exer48.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -112,9 +119,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exer44">
-    <configuration name="Exer39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer39" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ExerAula17" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exer48">
+    <configuration name="Exer45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer45" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer40" />
+    <configuration name="Exer45Incrementado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer45Incrementado" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer41" />
+    <configuration name="Exer46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer46" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer42" />
+    <configuration name="Exer47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer47" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer44" />
+    <configuration name="Exer48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer48" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer44" />
-        <item itemvalue="Application.Exer42" />
-        <item itemvalue="Application.Exer41" />
-        <item itemvalue="Application.Exer40" />
-        <item itemvalue="Application.Exer39" />
+        <item itemvalue="Application.Exer48" />
+        <item itemvalue="Application.Exer47" />
+        <item itemvalue="Application.Exer46" />
+        <item itemvalue="Application.Exer45Incrementado" />
+        <item itemvalue="Application.Exer45" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +242,9 @@
       <workItem from="1728086560846" duration="5768000" />
       <workItem from="1728102629735" duration="1878000" />
       <workItem from="1728362653013" duration="3081000" />
-      <workItem from="1728429031562" duration="15583000" />
+      <workItem from="1728429031562" duration="15607000" />
+      <workItem from="1728601426689" duration="1904000" />
+      <workItem from="1728712153068" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />
@@ -368,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728450096971</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1728461220983</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728461220983</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
