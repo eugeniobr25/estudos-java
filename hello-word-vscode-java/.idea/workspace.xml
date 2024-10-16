@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer45Incrementado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerAula17/Exer48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello-word-vscode-java/ExerAula17/Exer45.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,83 +52,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exer01.executor": "Run",
-    "Application.Exer02.executor": "Run",
-    "Application.Exer03.executor": "Run",
-    "Application.Exer04.executor": "Run",
-    "Application.Exer05.executor": "Run",
-    "Application.Exer06.executor": "Run",
-    "Application.Exer07.executor": "Run",
-    "Application.Exer08.executor": "Run",
-    "Application.Exer09.executor": "Run",
-    "Application.Exer10.executor": "Run",
-    "Application.Exer11.executor": "Run",
-    "Application.Exer12.executor": "Run",
-    "Application.Exer13.executor": "Run",
-    "Application.Exer14.executor": "Run",
-    "Application.Exer15.executor": "Run",
-    "Application.Exer16.executor": "Run",
-    "Application.Exer17.executor": "Run",
-    "Application.Exer18.executor": "Run",
-    "Application.Exer19.executor": "Run",
-    "Application.Exer20.executor": "Run",
-    "Application.Exer21.executor": "Run",
-    "Application.Exer22.executor": "Run",
-    "Application.Exer23.executor": "Run",
-    "Application.Exer26.executor": "Run",
-    "Application.Exer30.executor": "Run",
-    "Application.Exer31.executor": "Run",
-    "Application.Exer32.executor": "Run",
-    "Application.Exer33.executor": "Run",
-    "Application.Exer34.executor": "Run",
-    "Application.Exer35.executor": "Run",
-    "Application.Exer36.executor": "Run",
-    "Application.Exer37.executor": "Run",
-    "Application.Exer38.executor": "Run",
-    "Application.Exer39.executor": "Run",
-    "Application.Exer40.executor": "Run",
-    "Application.Exer41.executor": "Run",
-    "Application.Exer42.executor": "Run",
-    "Application.Exer43.executor": "Run",
-    "Application.Exer44.executor": "Run",
-    "Application.Exer45.executor": "Run",
-    "Application.Exer45Incrementado.executor": "Run",
-    "Application.Exer46.executor": "Run",
-    "Application.Exer47.executor": "Run",
-    "Application.Exer48.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pc/Desktop/ij-language-pack-pt-2024.2.zip",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exer01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer37.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer38.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer39.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer40.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer45Incrementado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer46.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer47.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exer48.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Desktop/ij-language-pack-pt-2024.2.zip&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ExerAula17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer48">
-    <configuration name="Exer45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer45" />
+  <component name="RunManager" selected="Application.Exer05">
+    <configuration name="Exer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer01" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="PATTERN" value="ExerAula19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer45Incrementado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer45Incrementado" />
+    <configuration name="Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer02" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="PATTERN" value="ExerAula19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer46" />
+    <configuration name="Exer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer03" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="PATTERN" value="ExerAula19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer47" />
+    <configuration name="Exer04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer04" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="PATTERN" value="ExerAula19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula17.Exer48" />
+    <configuration name="Exer05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer05" />
       <module name="hello-word-vscode-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerAula17.*" />
+          <option name="PATTERN" value="ExerAula19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer48" />
-        <item itemvalue="Application.Exer47" />
-        <item itemvalue="Application.Exer46" />
-        <item itemvalue="Application.Exer45Incrementado" />
-        <item itemvalue="Application.Exer45" />
+        <item itemvalue="Application.Exer05" />
+        <item itemvalue="Application.Exer04" />
+        <item itemvalue="Application.Exer03" />
+        <item itemvalue="Application.Exer02" />
+        <item itemvalue="Application.Exer01" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +242,9 @@
       <workItem from="1728362653013" duration="3081000" />
       <workItem from="1728429031562" duration="15607000" />
       <workItem from="1728601426689" duration="1904000" />
-      <workItem from="1728712153068" duration="2389000" />
+      <workItem from="1728712153068" duration="3872000" />
+      <workItem from="1729032287245" duration="12000" />
+      <workItem from="1729032307156" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />
@@ -390,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728461220983</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1728714959973</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728714959973</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
