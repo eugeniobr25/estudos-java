@@ -22,7 +22,7 @@ public class Exer05 {
         System.out.println();
 
         System.out.print("Vetor B: ");
-        for (int i = 0; i < vetorA.length; i++) {
+        for (int i = 0; i < vetorB.length; i++) {
             System.out.print(vetorB[i] + " ");
         }
         System.out.println();
