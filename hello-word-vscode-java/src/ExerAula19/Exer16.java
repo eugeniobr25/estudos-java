@@ -2,10 +2,9 @@ package ExerAula19;
 
 import java.util.Scanner;
 
-public class Exer11 {
+public class Exer16 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         int[] vetorA = new int[10];
 
         for (int i = 0; i < vetorA.length; i++) {
@@ -13,10 +12,18 @@ public class Exer11 {
             vetorA[i] = scan.nextInt();
         }
 
-        int qtdPares = 0;
+        int somaMenor15 = 0;
+        int somaMaior15 = 0;
+        int qtdMaior15 = 0;
+        int igual15 = 0;
         for (int i = 0; i < vetorA.length; i++) {
-            if (vetorA[i] % 2 == 0){
-                qtdPares++;
+            if (vetorA[i] == 15) {
+                igual15++;
+            } else if (vetorA[i] < 15) {
+                somaMenor15 += vetorA[i];
+            } else {
+                qtdMaior15++;
+                somaMaior15 += vetorA[i];
             }
         }
 
@@ -25,6 +32,9 @@ public class Exer11 {
             System.out.print(vetorA[i] + " ");
         }
         System.out.println();
-        System.out.println("Quantidade de números pares: " + qtdPares);
+        System.out.println("Quantidade números = 15: " + igual15);
+        System.out.println("Soma dos números < 15: " + somaMenor15);
+        System.out.println("Media dos números > 15: " + (somaMaior15/qtdMaior15));
+
     }
 }

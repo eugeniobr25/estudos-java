@@ -2,10 +2,9 @@ package ExerAula19;
 
 import java.util.Scanner;
 
-public class Exer11 {
+public class Exer12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         int[] vetorA = new int[10];
 
         for (int i = 0; i < vetorA.length; i++) {
@@ -13,11 +12,9 @@ public class Exer11 {
             vetorA[i] = scan.nextInt();
         }
 
-        int qtdPares = 0;
+        int soma = 0;
         for (int i = 0; i < vetorA.length; i++) {
-            if (vetorA[i] % 2 == 0){
-                qtdPares++;
-            }
+        soma += vetorA[i];
         }
 
         System.out.print("Vetor A: ");
@@ -25,6 +22,6 @@ public class Exer11 {
             System.out.print(vetorA[i] + " ");
         }
         System.out.println();
-        System.out.println("Quantidade de números pares: " + qtdPares);
+        System.out.println("Soma: " + soma);
     }
 }
