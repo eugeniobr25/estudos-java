@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ecdcd28-59cf-4a6b-8344-79d7b3eda47f" name="Changes" comment="Subindo exercicios">
-      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer27v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerAula19/Exer28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,9 @@
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -77,6 +82,8 @@
     "Application.Exer24.executor": "Run",
     "Application.Exer25.executor": "Run",
     "Application.Exer26.executor": "Run",
+    "Application.Exer27.executor": "Run",
+    "Application.Exer27v2.executor": "Run",
     "Application.Exer30.executor": "Run",
     "Application.Exer31.executor": "Run",
     "Application.Exer32.executor": "Run",
@@ -119,49 +126,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ExerAula19" />
       <recent name="ExerAula17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer26">
-    <configuration name="Exer18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer18" />
-      <module name="hello-word-vscode-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerAula19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer23" />
-      <module name="hello-word-vscode-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerAula19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer24" />
-      <module name="hello-word-vscode-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerAula19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exer28">
     <configuration name="Exer25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer25" />
       <module name="hello-word-vscode-java" />
@@ -188,13 +157,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exer27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer27" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer27v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer27v2" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerAula19.Exer28" />
+      <module name="hello-word-vscode-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerAula19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer28" />
+        <item itemvalue="Application.Exer27v2" />
+        <item itemvalue="Application.Exer27" />
         <item itemvalue="Application.Exer26" />
         <item itemvalue="Application.Exer25" />
-        <item itemvalue="Application.Exer24" />
-        <item itemvalue="Application.Exer23" />
-        <item itemvalue="Application.Exer18" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +268,8 @@
       <workItem from="1746738865223" duration="664000" />
       <workItem from="1746740080355" duration="502000" />
       <workItem from="1746740605276" duration="1706000" />
-      <workItem from="1747187323082" duration="2989000" />
+      <workItem from="1747187323082" duration="3837000" />
+      <workItem from="1747255266465" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="Subindo exercicios">
       <option name="closed" value="true" />
@@ -494,7 +503,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747189131828</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1747197734221</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747197734221</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Subindo exercicios">
+      <option name="closed" value="true" />
+      <created>1747197828797</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1747197828797</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
